@@ -2,7 +2,6 @@
 
 This project is a Generative AI-based application that extracts actionable tasks from email content using IBM Watsonx's `granite-13b-instruct-v2` foundation model. It provides a simple Streamlit web interface for both single and bulk email input.
 
----
 
 ## Features
 
@@ -11,7 +10,6 @@ This project is a Generative AI-based application that extracts actionable tasks
 - Utilizes IBM Watsonx foundation models for natural language understanding.
 - User-friendly interface built with Streamlit.
 
----
 
 ## Technologies Used
 
@@ -21,4 +19,3 @@ This project is a Generative AI-based application that extracts actionable tasks
 - Pandas
 - Jupyter Notebook (for testing and prototyping)
 
----
